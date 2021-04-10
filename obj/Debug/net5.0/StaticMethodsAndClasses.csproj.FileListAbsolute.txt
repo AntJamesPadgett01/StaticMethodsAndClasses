@@ -1,0 +1,15 @@
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.exe
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.deps.json
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.runtimeconfig.json
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.runtimeconfig.dev.json
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.dll
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\ref\StaticMethodsAndClasses.dll
+C:\Users\antho\repos\StaticMethodsAndClasses\bin\Debug\net5.0\StaticMethodsAndClasses.pdb
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.AssemblyInfoInputs.cache
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.AssemblyInfo.cs
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.dll
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\ref\StaticMethodsAndClasses.dll
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.pdb
+C:\Users\antho\repos\StaticMethodsAndClasses\obj\Debug\net5.0\StaticMethodsAndClasses.genruntimeconfig.cache
